@@ -17,4 +17,4 @@ jobs:
         with:
           user-token: aszkgzh369gnbkt45-lrguzqdzmfwuku86v
           env: joaovictornsv-docker-httpd-v2-production
-          dir: v2
+          dir: v1
